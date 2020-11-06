@@ -1,4 +1,0 @@
-"C:\\Users\\Dark Programmer\\Documents\\Programs file\\Codes\\Java Codes\\chatbotexample2\\src\\Brain.java"
-"C:\\Users\\Dark Programmer\\Documents\\Programs file\\Codes\\Java Codes\\chatbotexample2\\src\\ChatBotExample2.java"
-"C:\\Users\\Dark Programmer\\Documents\\Programs file\\Codes\\Java Codes\\chatbotexample2\\src\\PhraseCollection.java"
-"C:\\Users\\Dark Programmer\\Documents\\Programs file\\Codes\\Java Codes\\chatbotexample2\\src\\Vocabulary.java"

@@ -1,2 +1,0 @@
-"C:\\Users\\Dark Programmer\\Documents\\Programs file\\Codes\\Java Codes\\Echo\\src\\EchoClient.java"
-"C:\\Users\\Dark Programmer\\Documents\\Programs file\\Codes\\Java Codes\\Echo\\src\\EchoServer.java"
